@@ -1,5 +1,6 @@
 # Mac Finder Tags macros
 # Up to 7 tags can be used. These 7 tags are selected in the finder settings as your favorite tags.
+# The 'Finder' macro uses HotKeys to open finder.
 
 
 from adafruit_hid.keycode import Keycode
